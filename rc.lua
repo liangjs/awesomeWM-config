@@ -53,7 +53,8 @@ beautiful.wallpaper = awful.util.get_configuration_dir() .. "wallpaper/float_isl
 beautiful.useless_gap = 5
 beautiful.font = "monospace 11"
 beautiful.taglist_font = "simhei 11"
--- beautiful.border_focus = "#ae4c39"
+beautiful.border_focus = "#ae4c39"
+beautiful.border_width = 2
 beautiful.taglist_bg_focus = "#285577"
 beautiful.systray_icon_spacing = 3
 
